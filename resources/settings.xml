@@ -204,9 +204,9 @@
       <setting id="comando4kfilmes.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="comando4kfilmes.org_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]wolverdonfilme.net[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_wolverdonfilme.net" type="bool" default="true" />
-      <setting id="wolverdonfilme.net_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
-      <setting id="wolverdonfilme.net_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
+	<setting label="[B]wolverdon.site[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_wolverdon.site" type="bool" default="true" />
+      <setting id="wolverdon.site_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+      <setting id="wolverdon.site_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 	
 	<setting label="[B]filmestorrent.tv[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_filmestorrent.tv" type="bool" default="true" />
       <setting id="filmestorrent.tv_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
@@ -224,9 +224,9 @@
       <setting id="torrentdosfilmes.site_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="torrentdosfilmes.site_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]bludvfilmes.net[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_bludvfilmes.net" type="bool" default="true" />
-      <setting id="bludvfilmes.net_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
-      <setting id="bludvfilmes.net_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />	
+	<setting label="[B]bludv.xyz[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_bludv.xyz" type="bool" default="true" />
+      <setting id="bludv.xyz_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+      <setting id="bludv.xyz_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />	
 
 	<setting label="[B]torrentdosfilmes.se[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_torrentdosfilmes.se" type="bool" default="true" />
       <setting id="torrentdosfilmes.se_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
