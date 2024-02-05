@@ -3224,11 +3224,11 @@
         "tv_keywords_fallback2": ""
     },
 
-	"comandofilmeshd.org": {
+	"lapumia.co": {
         "anime_extra": "",
         "anime_keywords": "{title:br}",
         "anime_query": "EXTRA",
-        "base_url": "https://comandofilmeshd.org/?s=QUERY",
+        "base_url": "https://lapumia.co/?s=QUERY",
         "color": "FFF14E13",
 		"enabled": true,
         "general_extra": "",
@@ -3242,7 +3242,7 @@
         "movie_extra": "",
         "movie_keywords": "{title:br} {year}",
         "movie_query": "EXTRA",
-        "name": "ComandoFilmesHD",
+        "name": "Lapumia",
         "parser": {
             "infohash": "",
             "name": "item('a', order=1)",
