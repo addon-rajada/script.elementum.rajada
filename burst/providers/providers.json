@@ -3496,11 +3496,11 @@
         "tv_keywords_fallback2": ""
     },
 
-	"wolverdonfilme.net": {
+	"wolverdon.site": {
         "anime_extra": "",
         "anime_keywords": "{title} {episode}",
         "anime_query": "EXTRA",
-        "base_url": "https://wolverdonfilme.net/?s=QUERY",
+        "base_url": "https://wolverdon.site/?s=QUERY",
         "color": "FFF14E13",
 		"enabled": true,
         "general_extra": "",
@@ -3516,7 +3516,7 @@
         "movie_keywords": "{title:br} {year}",
 		"movie_keywords_fallback": "{title} {year}",
         "movie_query": "EXTRA",
-        "name": "WolverdonFilme",
+        "name": "Wolverdon",
         "parser": {
             "infohash": "",
             "name": "item('a', order=1)",
@@ -3720,11 +3720,11 @@
         "tv_keywords_fallback2": ""
     },
 
-	"bludvfilmes.net": {
+	"bludv.xyz": {
         "anime_extra": "",
         "anime_keywords": "{title:br}",
         "anime_query": "EXTRA",
-        "base_url": "https://bludvfilmes.net/?s=QUERY",
+        "base_url": "https://bludv.xyz/?s=QUERY",
         "color": "FFF14E13",
 		"enabled": true,
         "general_extra": "",
@@ -3740,7 +3740,7 @@
         "movie_keywords": "{title:br} {year}",
 		"movie_keywords_fallback": "{title} {year}",
         "movie_query": "EXTRA",
-        "name": "BLUDV Filmes",
+        "name": "BLUDV FILMES",
         "parser": {
             "infohash": "",
             "name": "item('a', order=1)",
