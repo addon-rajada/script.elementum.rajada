@@ -9,7 +9,7 @@
 | bludv.xyz         | ?s=QUERY                      | 04.02.24 - Ok          | Y             | Y            |                |
 | cinetorrent.com.br      | search?q=QUERY                | 04.02.24 - Ok          | Y             |              |                |
 | comando4kfilmes.org     | ?s=QUERY                      | 04.02.24 - Ok          | Y             | Y            |                |
-| comandofilmeshd.org     | ?s=QUERY                      | 04.02.24 - off          | Y             |              |                |
+| lapumia.co     | ?s=QUERY                      | 05.02.24 - Ok          | Y             |              |                |
 | comandotorrents.to      | ?s=QUERY                      | 04.02.24 - off          | Y             | Y            |                |
 | emtorrents.com          | index.php?s=QUERY             | 04.02.24 - Ok          | Y             | Y            | ondebaixo      |
 | filmestorrent.tv        | ?s=QUERY                      | 04.02.24 - Ok          | Y             |              | filmes torrent |
