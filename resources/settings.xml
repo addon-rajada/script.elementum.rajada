@@ -180,9 +180,9 @@
       <setting id="cinetorrent.com.br_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="cinetorrent.com.br_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 	
-	<setting label="[B]comandofilmeshd.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_comandofilmeshd.org" type="bool" default="false" />
-      <setting id="comandofilmeshd.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
-      <setting id="comandofilmeshd.org_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
+	<setting label="[B]lapumia.co[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_lapumia.co" type="bool" default="false" />
+      <setting id="lapumia.co_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+      <setting id="lapumia.co_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
 	<setting label="[B]nerdfilmes.com.br[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_nerdfilmes.com.br" type="bool" default="true" />
       <setting id="nerdfilmes.com.br_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
