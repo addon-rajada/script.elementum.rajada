@@ -21,7 +21,7 @@
 
 	<setting label="32220" type="lsep" />
 	<setting label="32221" id="show_providers_name" type="bool" default="false" />
-	<setting label="32222" id="check_seeders_peers" type="bool" default="true" />
+	<setting label="32222" id="check_seeders_peers" type="bool" default="false" />
 	<setting label="32223" id="custom_elementum_settings" type="bool" default="false" />
 
   </category>
