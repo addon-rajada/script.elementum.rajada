@@ -21,7 +21,7 @@
 
 	<setting label="32220" type="lsep" />
 	<setting label="32221" id="show_providers_name" type="bool" default="false" />
-	<setting label="32222" id="check_seeders_peers" type="bool" default="false" />
+	<setting label="32222" id="check_seeders_peers" type="bool" default="true" />
 	<setting label="32223" id="custom_elementum_settings" type="bool" default="false" />
 	<setting label="32224" type="action" action="RunScript(script.elementum.rajada,update_providers)" option="close" />
 
@@ -197,6 +197,10 @@
       <setting id="insanostorrent.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="insanostorrent.com_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
+	<setting label="[B]ontorrent.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_ontorrent.org" type="bool" default="true" />
+      <setting id="ontorrent.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+      <setting id="ontorrent.org_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
+
 	<setting label="[B]filmeviatorrents.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_filmeviatorrents.org" type="bool" default="true" />
       <setting id="filmeviatorrents.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="filmeviatorrents.org_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
@@ -249,7 +253,7 @@
       <setting id="vamostorrent.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="vamostorrent.com_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]megatorrentsx.com[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_megatorrentsx.com" type="bool" default="false" />
+	<setting label="[B]megatorrentsx.com[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_megatorrentsx.com" type="bool" default="true" />
       <setting id="megatorrentsx.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="megatorrentsx.com_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
