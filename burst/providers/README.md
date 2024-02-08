@@ -18,6 +18,7 @@
 | hiperflix.org           | ?s=QUERY                      | 06.02.24 - Ok          | Y             |              |                |
 | insanostorrent.com      | ?s=QUERY                      | 06.02.24 - Ok          | Y             | Y            |                |
 | ontorrent.org           | ?s=QUERY                      | 08.02.24 - Ok          | Y             |              |                |
+| piratetorrentsxd.com           | ?s=QUERY                      | 08.02.24 - Ok          | Y             |              |                |
 | magnetdl.com            | ...                           | 06.02.24 - Ok          | Y             |              |                |
 | megatorrentsx.com       | ?s=QUERY                      | 08.02.24 - Ok          | Y             |              |                |
 | nerdfilmes.com.br       | ?s=QUERY                      | 06.02.24 - Ok          | Y             |              |                |
