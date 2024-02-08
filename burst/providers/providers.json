@@ -3470,7 +3470,7 @@
         "movie_extra": "",
         "movie_keywords": "{title:br} {year}",
         "movie_query": "EXTRA",
-        "name": "piratetorrentsxd.com",
+        "name": "piratetorrentsxd",
         "parser": {
             "infohash": "",
             "name": "item('a', order=1)",
