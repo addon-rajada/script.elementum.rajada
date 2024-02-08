@@ -3452,6 +3452,48 @@
         "tv_keywords_fallback2": ""
     },
 
+	"piratetorrentsxd.com": {
+        "anime_extra": "",
+        "anime_keywords": "{title:br}",
+        "anime_query": "EXTRA",
+        "base_url": "https://piratetorrentsxd.com/?s=QUERY",
+        "color": "FFF14E13",
+		"enabled": true,
+        "general_extra": "",
+        "general_keywords": "{title:br}",
+        "general_query": "EXTRA",
+		"language": "br",
+        "languages": "br, pt",
+        "login_failed": "",
+        "login_object": "",
+        "login_path": null,
+        "movie_extra": "",
+        "movie_keywords": "{title:br} {year}",
+        "movie_query": "EXTRA",
+        "name": "piratetorrentsxd.com",
+        "parser": {
+            "infohash": "",
+            "name": "item('a', order=1)",
+            "peers": "-1",
+            "row": "find_all('h2', ('class', 'entry-title'))",
+            "seeds": "-1",
+            "size": "",
+            "torrent": "item(tag='a', attribute='href', order=1)"
+        },
+        "private": false,
+        "season_extra": "",
+        "season_extra2": "",
+        "season_keywords": "{title:br} {season:2} temporada",
+        "season_query": "EXTRA",
+        "separator": "+",
+        "show_query": "",
+        "subpage": true,
+        "tv_extra": "",
+        "tv_extra2": "",
+        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords_fallback": "{title} s{season:2}"
+    },
+
 	"filmeviatorrents.org": {
         "anime_extra": "",
         "anime_keywords": "{title} {episode}",
