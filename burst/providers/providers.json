@@ -3196,6 +3196,7 @@
         "login_path": null,
         "movie_extra": "",
         "movie_keywords": "{title:br} {year}",
+        "movie_keywords2": "{title:original} {year}",
         "movie_query": "EXTRA",
         "name": "ontorrent.org",
         "parser": {
@@ -3242,6 +3243,7 @@
         "login_path": null,
         "movie_extra": "",
         "movie_keywords": "{title:br} {year}",
+        "movie_keywords2": "{title:original} {year}",
         "movie_query": "EXTRA",
         "name": "ComandoFilmes",
         "parser": {
