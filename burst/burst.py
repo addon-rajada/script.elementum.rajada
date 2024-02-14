@@ -610,7 +610,7 @@ def extract_torrents(provider, client):
                         size_item = torrent_item[1]
                         torrent_item = torrent_item[0]
 
-                    magnet_name = re.findall(r'[?&(&)]dn=([^&]+).*', torrent_item) # r'&dn=(.*?)&'
+                    magnet_name = re.findall(r'[?&(&amp;)]dn=([^&]+).*', torrent_item) # r'&dn=(.*?)&'
                     infohash_regex = re.findall(r'urn:btih:([a-zA-Z0-9]+).*', torrent_item)
                     infohash_value = infohash_regex[0] if infohash_regex else info_hash
                     torrent_name = unquote(magnet_name[0]) if len(magnet_name) >= 1 else unquote(name)
