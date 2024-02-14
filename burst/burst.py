@@ -610,7 +610,7 @@ def extract_torrents(provider, client):
                         size_item = torrent_item[1]
                         torrent_item = torrent_item[0]
 
-                    magnet_name = re.findall(r'[?&(&amp;)]dn=([^&]+).*', torrent_item) # r'&dn=(.*?)&'
+                    magnet_name = re.findall(r'[?&(&)]dn=([^&]+).*', torrent_item) # r'&dn=(.*?)&'
                     infohash_regex = re.findall(r'urn:btih:([a-zA-Z0-9]+).*', torrent_item)
                     infohash_value = infohash_regex[0] if infohash_regex else info_hash
                     torrent_name = unquote(magnet_name[0]) if len(magnet_name) >= 1 else unquote(name)
@@ -876,7 +876,7 @@ def extract_from_api(provider, client):
         if 'torrent' in api_format:
             torrent = result[api_format['torrent']]
             if 'download_path' in definition:
-                torrent = definition['base_url'] + definition['download_path'] + torrent
+                torrent = definition['download_path'] + torrent
             if client.token:
                 user_agent = USER_AGENT
                 headers = {'Authorization': client.token, 'User-Agent': user_agent}
@@ -935,6 +935,13 @@ def extract_from_page(provider, content):
             return result
 
         matches = re.findall('http(.*?).torrent["\']', content)
+        if matches:
+            result = 'http' + matches[0] + '.torrent'
+            result = result.replace('torcache.net', 'itorrents.org')
+            log.debug('[%s] Matched torrent link: %s' % (provider, repr(result)))
+            return result
+
+        matches = re.findall('http(.*?)/download/.torrent["\']', content)
         if matches:
             result = 'http' + matches[0] + '.torrent'
             result = result.replace('torcache.net', 'itorrents.org')
