@@ -40,6 +40,8 @@ Abaixo os casos de teste realizados pelo desenvolvedor. Outras versões necessá
 |      | 0.1.98 x86 | Ok | Ok |
 | 20.2 | 0.1.87 x86 | Ok | Ok |
 | 21.0 ALPHA 2 | 0.1.87 x86 | Ok | Ok |
+| 21.0 BETA 3 | 0.1.99 arm | Ok | Ok |
+|      | 0.1.99 arm64 | Ok | Ok |
 
 ---
 
