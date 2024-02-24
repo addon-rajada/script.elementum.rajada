@@ -3409,6 +3409,52 @@
         "tv_keywords_fallback2": ""
     },
 
+	"brtorrentz.com": {
+        "anime_extra": "",
+        "anime_keywords": "{title:br}",
+        "anime_query": "EXTRA",
+        "base_url": "https://brtorrentz.com/?s=QUERY",
+        "color": "FFF14E13",
+		"enabled": true,
+        "general_extra": "",
+        "general_keywords": "{title:br}",
+        "general_query": "EXTRA",
+		"language": "br",
+        "languages": "br, pt",
+        "login_failed": "",
+        "login_object": "",
+        "login_path": null,
+        "movie_extra": "",
+        "movie_keywords": "{title:br} {year}",
+        "movie_keywords2": "{title:original} {year}",
+        "movie_query": "EXTRA",
+        "name": "brtorrentz",
+        "parser": {
+            "infohash": "",
+            "name": "item('a', order=2)",
+            "peers": "-1",
+            "row": "find_all('div', select=('class','title'))",
+            "seeds": "-1",
+            "size": "",
+            "torrent": "item(tag='a', attribute='href', order=1)"
+        },
+        "private": false,
+        "season_extra": "",
+        "season_extra2": "",
+        "season_keywords": "{title:br} {season:2} temporada",
+        "season_query": "EXTRA",
+        "separator": "+",
+        "show_query": "",
+        "subpage": true,
+        "tv_extra": "",
+        "tv_extra2": "",
+        "tv_keywords": "{title:br} {season} temporada",
+        "tv_keywords2": "{title:br} {season:2} temporada",
+        "tv_keywords3": "",
+        "tv_keywords_fallback": "",
+        "tv_keywords_fallback2": ""
+    },
+
 	"lapumia.co": {
         "anime_extra": "",
         "anime_keywords": "{title:br}",
@@ -3449,8 +3495,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
-        "tv_keywords_fallback": "{title} s{season:2}"
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada"
     },
 
 	"nerdfilmes.com.br": {
@@ -3491,7 +3537,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}"
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada",
+        "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
     },
 
 	"comandotorrents.to": {
@@ -3585,11 +3633,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords2": "{title:br} {season:2} temporada",
-        "tv_keywords3": "",
-        "tv_keywords_fallback": "{title} s{season:2}e{episode:2}",
-        "tv_keywords_fallback2": ""
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada"
     },
 
 	"filmeviatorrents.org": {
@@ -3631,7 +3676,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}"
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada"
     },
 
 	"comando4kfilmes.org": {
@@ -3677,11 +3723,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords2": "",
-        "tv_keywords3": "",
-        "tv_keywords_fallback": "{title:en} {year}",
-        "tv_keywords_fallback2": ""
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada",
+        "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
     },
 
 	"wolverdon.site": {
@@ -3726,10 +3770,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
-        "tv_keywords2": "",
-        "tv_keywords3": "",
-        "tv_keywords_fallback": "{title} s{season:2}"
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada"
     },
 
 	"filmestorrent.tv": {
@@ -3855,11 +3897,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords2": "",
-        "tv_keywords3": "",
-        "tv_keywords_fallback": "",
-        "tv_keywords_fallback2": ""
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada",
+        "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
     },
 
 	"torrentdosfilmes.site": {
@@ -3901,11 +3941,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords2": "",
-        "tv_keywords3": "",
-        "tv_keywords_fallback": "",
-        "tv_keywords_fallback2": ""
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada",
+        "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
     },
 
 	"bludv.xyz": {
@@ -3950,8 +3988,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords_fallback": "{title} s{season:2}e{episode:2}"
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada",
+        "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
     },
 
 	"torrentdosfilmes.se": {
@@ -4039,11 +4078,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords2": "",
-        "tv_keywords3": "",
-        "tv_keywords_fallback": "",
-        "tv_keywords_fallback2": ""
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada",
+        "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
     },
 
 	"emtorrents.com": {
@@ -4132,9 +4169,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords2": "",
-        "tv_keywords3": ""
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada"
     },
 
 	"megatorrentsx.com": {
@@ -4176,11 +4212,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords2": "",
-        "tv_keywords3": "",
-        "tv_keywords_fallback": "",
-        "tv_keywords_fallback2": ""
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada",
+        "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
     },
 
 	"semtorrent.com": {
@@ -4405,8 +4439,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
-        "tv_keywords_fallback": "{title} s{season:2}"
+        "tv_keywords": "{title:en} {season}ª temporada",
+        "tv_keywords2": "{title:en} {season:2}ª temporada"
     },
 
 	"gratistorrent.com": {
@@ -4493,7 +4527,9 @@
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:br} s{season:2}e{episode:2}"
+                "tv_keywords": "{title:en} {season}ª temporada",
+                "tv_keywords2": "{title:en} {season:2}ª temporada",
+                "tv_keywords3": "{title:en} s{season:2}e{episode:2}"
 	},
 
 	"wolverdon.fun": {
@@ -4576,11 +4612,11 @@
 		"tv_keywords": "{title:br} s{season:2}e{episode:2}"
 	},
 
-	"megatorrent4k.com": {
+	"megatorrent4k.site": {
 		"anime_extra": "",
 		"anime_keywords": "{title:br} {episode}",
 		"anime_query": "EXTRA",
-		"base_url": "https://megatorrent4k.com/?s=QUERY",
+		"base_url": "https://megatorrent4k.site/?s=QUERY",
 		"color": "FFF14E13",
 		"enabled": true,
 		"general_extra": "",
