@@ -261,13 +261,13 @@
   	  <setting id="comandotorrent.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="comandotorrent.org_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]megatorrent4k.com[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_megatorrent4k.com" type="bool" default="true" />
-  	  <setting id="megatorrent4k.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
-  	  <setting id="megatorrent4k.com_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
+	<setting label="[B]megatorrent4k.site[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_megatorrent4k.site" type="bool" default="true" />
+  	  <setting id="megatorrent4k.site_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+  	  <setting id="megatorrent4k.site_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]wolverdon.fun[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_wolverdon.fun" type="bool" default="true" />
-  	  <setting id="wolverdon.fun_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
-  	  <setting id="wolverdon.fun_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
+	<setting label="[B]wolverdon-filmes.net[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_wolverdon-filmes.net" type="bool" default="true" />
+  	  <setting id="wolverdon-filmes.net_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+  	  <setting id="wolverdon-filmes.net_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
 	<setting label="[B]darkmahou.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_darkmahou.org" type="bool" default="true" />
   	  <setting id="darkmahou.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
