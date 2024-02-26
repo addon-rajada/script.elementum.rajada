@@ -4210,7 +4210,7 @@
         "movie_extra": "",
         "movie_keywords": "{title:br} {year}",
         "movie_query": "EXTRA",
-        "name": "VamosTorrent",
+        "name": "ApenasTorrent",
         "parser": {
             "infohash": "",
             "name": "item('a', order=1)",
