@@ -169,7 +169,7 @@
       <setting id="nerdfilmes.com.br_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="nerdfilmes.com.br_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]comandotorrents.to[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_comandotorrents.to" type="bool" default="true" />
+	<setting label="[B]comandotorrents.to[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_comandotorrents.to" type="bool" default="false" />
       <setting id="comandotorrents.to_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="comandotorrents.to_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
@@ -177,7 +177,7 @@
       <setting id="insanostorrent.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="insanostorrent.com_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]filmeviatorrents.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_filmeviatorrents.org" type="bool" default="true" />
+	<setting label="[B]filmeviatorrents.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_filmeviatorrents.org" type="bool" default="false" />
       <setting id="filmeviatorrents.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="filmeviatorrents.org_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
@@ -221,9 +221,9 @@
       <setting id="emtorrents.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="emtorrents.com_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]vamostorrent.com[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_vamostorrent.com" type="bool" default="true" />
-      <setting id="vamostorrent.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
-      <setting id="vamostorrent.com_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
+	<setting label="[B]apenastorrent.net[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_apenastorrent.net" type="bool" default="true" />
+      <setting id="apenastorrent.net_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
+      <setting id="apenastorrent.net_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
 	<setting label="[B]megatorrentsx.com[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_megatorrentsx.com" type="bool" default="true" />
       <setting id="megatorrentsx.com_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
@@ -257,7 +257,7 @@
   	  <setting id="comandofilmes.com.br_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
   	  <setting id="comandofilmes.com.br_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
-	<setting label="[B]comandotorrent.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_comandotorrent.org" type="bool" default="true" />
+	<setting label="[B]comandotorrent.org[/B]   [COLOR gray][$ADDON[script.elementum.rajada 32111]][/COLOR]" id="use_comandotorrent.org" type="bool" default="false" />
   	  <setting id="comandotorrent.org_alias" label="32077" type="text" default="" subsetting="true" visible="eq(-1,true)" />
       <setting id="comandotorrent.org_contains" type="enum" label="32080" subsetting="true" lvalues="32081|32082|32083" visible="eq(-2,true)" />
 
