@@ -3441,19 +3441,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"limontorrents.com": {
@@ -3534,18 +3533,17 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"nerdfilmes.com.br": {
@@ -3579,18 +3577,17 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"comandotorrents.to": {
@@ -3720,18 +3717,17 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"comando4kfilmes.org": {
@@ -3768,19 +3764,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"wolverdon.site": {
@@ -3816,19 +3811,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"filmestorrent.tv": {
@@ -3946,19 +3940,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"torrentdosfilmes.site": {
@@ -3992,19 +3985,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"bludv.xyz": {
@@ -4040,19 +4032,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"torrentdosfilmes.se": {
@@ -4086,19 +4077,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"netjmx.com": {
@@ -4132,20 +4122,19 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2} {year}",
         "tv_keywords2": "",
         "tv_keywords3": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"emtorrents.com": {
@@ -4270,19 +4259,18 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"semtorrent.com": {
@@ -4416,9 +4404,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} {season}ª temporada",
+        "tv_keywords": "{title:br} s{season:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season:2}ª temporada",
+        "tv_keywords_fallback": "{title:br} {season}ª temporada",
         "tv_keywords_fallback2": ""
     },
 
@@ -4499,18 +4487,17 @@
         "private": false,
         "season_extra": "",
         "season_extra2": "",
-        "season_keywords": "{title:br} s{season:2}e{episode:2}",
-        "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+        "season_keywords": "{title:br} {season}ª temporada",
+        "season_keywords_fallback": "{title:br} {season:2}ª temporada",
         "season_query": "EXTRA",
         "separator": "+",
         "show_query": "",
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
-        "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback2": ""
     },
 
 	"gratistorrent.com": {
@@ -4590,17 +4577,16 @@
 		"private": false,
 		"season_extra": "",
 		"season_extra2": "",
-		"season_keywords": "{title:br} s{season:2}e{episode:2}",
-                "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+                "season_keywords": "{title:br} {season}ª temporada",
+                "season_keywords_fallback": "{title:br} {season:2}ª temporada",
 		"season_query": "EXTRA",
 		"separator": "+",
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:br} s{season:2}e{episode:2}",
-                "tv_keywords_fallback": "{title:br} {season}ª temporada",
-                "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+		"tv_keywords": "{title:br} s{season:2}",
+                "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+                "tv_keywords_fallback2": ""
 	},
 
 	"wolverdon-filmes.net": {
@@ -4634,17 +4620,16 @@
 		"private": false,
 		"season_extra": "",
 		"season_extra2": "",
-		"season_keywords": "{title:br} s{season:2}e{episode:2}",
-                "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+                "season_keywords": "{title:br} {season}ª temporada",
+                "season_keywords_fallback": "{title:br} {season:2}ª temporada",
 		"season_query": "EXTRA",
 		"separator": "+",
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:br} s{season:2}e{episode:2}",
-                "tv_keywords_fallback": "{title:br} {season}ª temporada",
-                "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+		"tv_keywords": "{title:br} s{season:2}",
+                "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+                "tv_keywords_fallback2": ""
 	},
 
 	"comandotorrent.org": {
@@ -4718,17 +4703,16 @@
 		"private": false,
 		"season_extra": "",
 		"season_extra2": "",
-		"season_keywords": "{title:br} s{season:2}e{episode:2}",
-                "season_keywords_fallback": "{title:br} {season}ª temporada",
-        "season_keywords_fallback2": "{title:br} {season:2}ª temporada",
+                "season_keywords": "{title:br} {season}ª temporada",
+                "season_keywords_fallback": "{title:br} {season:2}ª temporada",
 		"season_query": "EXTRA",
 		"separator": "+",
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:br} s{season:2}e{episode:2}",
-                "tv_keywords_fallback": "{title:br} {season}ª temporada",
-                "tv_keywords_fallback2": "{title:br} {season:2}ª temporada"
+		"tv_keywords": "{title:br} s{season:2} {year}",
+                "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+                "tv_keywords_fallback2": ""
 	},
 
 	"darkmahou.org": {
