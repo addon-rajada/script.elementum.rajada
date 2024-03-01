@@ -4567,12 +4567,12 @@
 		"name": "ComandoFilmes",
 		"parser": {
 			"infohash": "",
-			"name": "item('a', order=2)",
+			"name": "item('a', order=1)",
 			"peers": "-1",
-			"row": "find_all('div', ('class','post'))",
+			"row": "find_all('h2', ('class','entry-title'))",
 			"seeds": "-1",
 			"size": "",
-			"torrent": "item(tag='a', attribute='href', order=2)"
+			"torrent": "item(tag='a', attribute='href', order=1)"
 		},
 		"private": false,
 		"season_extra": "",
