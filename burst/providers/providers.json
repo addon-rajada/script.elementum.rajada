@@ -4717,8 +4717,8 @@
 
 	"darkmahou.org": {
 		"anime_extra": "",
-		"anime_keywords": "{title:en}",
-		"anime_keywords_fallback": "{title:en} {season}ª temporada",
+		"anime_keywords": "{title:br}",
+		"anime_keywords_fallback": "{title:br} {season}ª temporada",
 		"anime_query": "EXTRA",
 		"base_url": "https://darkmahou.org/?s=QUERY",
 		"color": "FFF14E13",
@@ -4748,14 +4748,14 @@
 		"private": false,
 		"season_extra": "",
 		"season_extra2": "",
-		"season_keywords": "{title:br} {season:2} temporada",
+		"season_keywords": "{title:br} {season} temporada",
 		"season_keywords2": "{title:en} {season:2} temporada",
 		"season_query": "EXTRA",
 		"separator": "+",
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:en} s{season:2}e{episode:2}"
+		"tv_keywords": "{title:br} s{season:2}e{episode:2}"
 	}
 
 }
