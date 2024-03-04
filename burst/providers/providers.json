@@ -3449,9 +3449,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -3541,8 +3541,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -3585,8 +3585,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -3725,8 +3725,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -3772,9 +3772,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -3819,9 +3819,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -3948,9 +3948,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -3993,9 +3993,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -4040,9 +4040,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -4085,9 +4085,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -4130,10 +4130,10 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2} {year}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
         "tv_keywords3": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2} {year}",
         "tv_keywords_fallback2": ""
     },
 
@@ -4267,9 +4267,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -4404,9 +4404,9 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords2": "",
-        "tv_keywords_fallback": "{title:br} {season}ª temporada",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -4495,8 +4495,8 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}",
-        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}",
         "tv_keywords_fallback2": ""
     },
 
@@ -4584,8 +4584,8 @@
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:br} s{season:2}",
-                "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+		"tv_keywords": "{title:br} s{season:2}e{episode:2}",
+                "tv_keywords_fallback": "{title:br} s{season:2}",
                 "tv_keywords_fallback2": ""
 	},
 
@@ -4627,8 +4627,8 @@
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:br} s{season:2}",
-                "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+		"tv_keywords": "{title:br} s{season:2}e{episode:2}",
+                "tv_keywords_fallback": "{title:br} s{season:2}",
                 "tv_keywords_fallback2": ""
 	},
 
@@ -4710,8 +4710,8 @@
 		"show_query": "",
 		"subpage": true,
 		"tv_extra": "",
-		"tv_keywords": "{title:br} s{season:2} {year}",
-                "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
+		"tv_keywords": "{title:br} s{season:2}e{episode:2}",
+                "tv_keywords_fallback": "{title:br} s{season:2} {year}",
                 "tv_keywords_fallback2": ""
 	},
 
