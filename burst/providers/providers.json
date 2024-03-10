@@ -3631,10 +3631,10 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:br} s{season:2}e{episode:2}",
+        "tv_keywords": "{title:br} s{season} temporada",
         "tv_keywords2": "{title:br} {season:2} temporada",
         "tv_keywords3": "",
-        "tv_keywords_fallback": "{title} s{season:2}e{episode:2}",
+        "tv_keywords_fallback": "{title:br} s{season:2}e{episode:2}",
         "tv_keywords_fallback2": ""
     },
 
